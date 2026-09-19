@@ -1,0 +1,1 @@
+Empeze creando las capretas y subcarpetas medieante el mkdir luego con el touch cree los archivos .txt que necesitaba cada carpeta, prepare los cambios con git add . para hacer los commits y luego conecte mi cuenta de GitHub para hacer un git push y mandar todo a GitHub
