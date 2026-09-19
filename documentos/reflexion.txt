@@ -1,0 +1,1 @@
+Considero que aprender que es Git y como funciona es algo muy importante en la programacion, ya que este es un controlador de versiones el cual nos puede ayudar en caso de que tengamos un error en un codigo y podemos volver a una version en la que tenemos el codigo bien para corregirlo
